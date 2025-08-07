@@ -1,6 +1,6 @@
  💼 RAG Pipeline for Financial Data Question Answering
 
- This project was developed as part of the **Sigmoix.AI AI R&D Engineer Intern Assessment**. It implements a **Retrieval-Augmented Generation (RAG)** pipeline to answer natural language questions using financial documents, specifically **Meta’s Q1 2024 Financial Report**.
+ It implements a **Retrieval-Augmented Generation (RAG)** pipeline to answer natural language questions using financial documents, specifically **Meta’s Q1 2024 Financial Report**.
 
 
 
@@ -48,5 +48,7 @@ Here are some example queries the pipeline can handle:
 
 ✅ Compare Meta's net income in Q1 2024 vs Q1 2023.
 
+Documrnt:
 
 
+[Meta’s Q1 2024 Financial Report.pdf](https://github.com/user-attachments/files/21671890/Meta.s.Q1.2024.Financial.Report.pdf)
