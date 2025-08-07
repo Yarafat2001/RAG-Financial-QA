@@ -48,7 +48,7 @@ Here are some example queries the pipeline can handle:
 
 ✅ Compare Meta's net income in Q1 2024 vs Q1 2023.
 
-Documrnt:
+📄 Documet"Meta’s Q1 2024 Financial Report":
 
 
 [Meta’s Q1 2024 Financial Report.pdf](https://github.com/user-attachments/files/21671890/Meta.s.Q1.2024.Financial.Report.pdf)
